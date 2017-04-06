@@ -5,11 +5,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "main": "webpack.config.js",
   "author": "Vyacheslav Kovalyov <dev.vyacheslav@gmail.com>",
   "dependencies": {
-    "react" : "*",
-    "react-dom" : "*",
-    "babel": "*"
+    "babel": "*",
+    "express": "^4.15.2",
+    "react": "*",
+    "react-dom": "*"
   },
   "devDependencies": {
     "webpack": "*"
