@@ -1,0 +1,18 @@
+{
+  "name": "sketch.mern",
+  "version": "1.0.0",
+  "description": "Набросок для изучения mern",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vyacheslav Kovalyov <dev.vyacheslav@gmail.com>",
+  "dependencies": {
+    "react" : "*",
+    "react-dom" : "*",
+    "babel": "*"
+  },
+  "devDependencies": {
+    "webpack": "*"
+  },
+  "license": "ISC"
+}
