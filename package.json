@@ -9,7 +9,9 @@
   "author": "Vyacheslav Kovalyov <dev.vyacheslav@gmail.com>",
   "dependencies": {
     "babel": "*",
+    "body-parser": "^1.17.1",
     "express": "^4.15.2",
+    "mongoose": "^4.9.3",
     "react": "*",
     "react-dom": "*"
   },
